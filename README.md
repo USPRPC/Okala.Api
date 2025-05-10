@@ -70,6 +70,11 @@ It’s practical and focused on real backend skills. I liked that it included bo
   "role": "Backend Developer",
   "skills": ["C#", ".NET Core", "REST APIs", "SQL", "Unit Testing"],
   "learning": ["Docker", "Azure", "gRPC"],
-  "hobbies": ["reading", "coding", "watching movies"]
+  "hobbies": [
+              "Designing and Developing Malware Simulation Tools for Educational and Security Testing Purposes",
+              "Game Development and Ethical Exploiting for Security Learning",
+              "Exploring GitHub for Open Source Projects and Innovation",
+              "Watching movies"
+            ]
 }
 ```
