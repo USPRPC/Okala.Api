@@ -67,7 +67,7 @@ It’s practical and focused on real backend skills. I liked that it included bo
 ```json
 {
   "name": "Yousof Asadi",
-  "role": "Junior Backend Developer",
+  "role": "Backend Developer",
   "skills": ["C#", ".NET Core", "REST APIs", "SQL", "Unit Testing"],
   "learning": ["Docker", "Azure", "gRPC"],
   "hobbies": ["reading", "coding", "watching movies"]
