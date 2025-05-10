@@ -75,6 +75,6 @@ It’s practical and focused on real backend skills. I liked that it included bo
               "Game Development and Ethical Exploiting for Security Learning",
               "Exploring GitHub for Open Source Projects and Innovation",
               "Watching movies"
-            ]
+             ]
 }
 ```
