@@ -17,6 +17,8 @@ This project is a .NET Core Web API that fetches and returns current environment
 - Clean code structure with Dependency Injection and SOLID principles
 - Includes one unit test using xUnit
 
+![Screenshot 2025-05-10 231332](https://github.com/user-attachments/assets/40ec5bc7-a59c-4399-8e92-97d537edf245)
+
 
 
 # Technical Assessment – WiraSystem
